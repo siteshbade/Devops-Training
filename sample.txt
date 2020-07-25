@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ##########  configuration details ########################
+=======
+##########   ########################
+>>>>>>> 6c4de76a60e2ebef6d70049c1f80b7345b732597
 log_file = r'log_file.txt'
 data_file = r'data.txt'
 cred_file = r'cred.txt'
