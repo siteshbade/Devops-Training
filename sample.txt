@@ -1,4 +1,4 @@
-##########  configuration ########################
+##########   ########################
 log_file = r'log_file.txt'
 data_file = r'data.txt'
 cred_file = r'cred.txt'
